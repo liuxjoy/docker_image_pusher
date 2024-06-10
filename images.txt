@@ -1,5 +1,6 @@
-alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
---platform=linux/arm/v7 redis:7.0.15-alpine3.20
+sonatype/nexus3:3.69.0-java17
+nginx:stable-alpine3.17-slim
+gitlab/gitlab-ce:16.9.8-ce.0
+gitlab/gitlab-runner:alpine3.19-v16.9.1
+gitlab/gitlab-runner:ubuntu-v16.9.1
+sonarqube:10.5.1-community
