@@ -1,4 +1,3 @@
-gradle:7.6.4-jdk21-alpine
 gradle:7.6.4-jdk17-alpine
 gradle:7.6.4-jdk11-alpine
 gradle:7.6.4-jdk8-focal
