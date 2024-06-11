@@ -1,1 +1,10 @@
-mysql:8.0.33-debian
+gradle:7.6.4-jdk21-alpine
+gradle:7.6.4-jdk17-alpine
+gradle:7.6.4-jdk11-alpine
+gradle:7.6.4-jdk8-focal
+gradle:8.8.0-jdk21-alpine
+gradle:8.8.0-jdk17-alpine
+gradle:8.8.0-jdk11-alpine
+gradle:8.8.0-jdk8-alpine
+ubuntu:22.04
+alpine:3.9.6
