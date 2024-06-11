@@ -5,6 +5,6 @@ gradle:7.6.4-jdk8-focal
 gradle:8.8.0-jdk21-alpine
 gradle:8.8.0-jdk17-alpine
 gradle:8.8.0-jdk11-alpine
-gradle:8.8.0-jdk8-alpine
+gradle:8.8.0-jdk8-focal
 ubuntu:22.04
 alpine:3.9.6
