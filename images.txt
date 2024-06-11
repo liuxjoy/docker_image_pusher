@@ -1,13 +1,1 @@
-docker:24.0.9-git
-mysql:8.4.0
-mysql:8.0.4
-mongo:7.0.11
-apachepulsar/pulsar:3.2.3
-apache/iotdb:1.3.1-standalone
-apache/iotdb:1.3.1-datanode
-apache/iotdb:1.3.1-confignode
-nacos/nacos-server:v2.2.2
-redis:7.2.5
-httpd:2.4.57
-openjdk:8u232-jre-slim-buster
-openjdk:17.0.1-jdk-slim-buster
+rabbitmq:3.13.0
