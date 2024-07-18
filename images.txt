@@ -1,1 +1,1 @@
-openjdk:11.0.10-jre-slim-buster
+nacos/nacos-server:2.0.1
