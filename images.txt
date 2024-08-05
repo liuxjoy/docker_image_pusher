@@ -1,2 +1,1 @@
-docker.io/raspbernetes/csi-external-resizer:1.0.0
-docker.io/library/busybox:latest
+docker.io/kadalu/kadalu-operator:0.7.6
