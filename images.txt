@@ -1,1 +1,1 @@
-docker.io/kadalu/kadalu-operator:0.7.6
+openjdk:8u92-jdk-alpine
