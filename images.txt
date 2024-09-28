@@ -1,1 +1,1 @@
-openjdk:8u92-alpine
+8u212-alpine
