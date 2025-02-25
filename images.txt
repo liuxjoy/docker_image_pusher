@@ -1,2 +1,2 @@
 mintplexlabs/anythingllm:1.7.4
-ollama/ollama:0.5.9
+ollama/ollama:0.5.12
