@@ -1,2 +1,5 @@
 openjdk:17.0.2-jdk-slim-buster
 apachepulsar/pulsar:4.1.2
+mysql:8.4.7-oraclelinux9
+mongo:7.0.26
+mongo:8.2.2
