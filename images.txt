@@ -1,1 +1,2 @@
-postgres:16.10-alpine
+openjdk:17.0.2-jdk-slim-buster
+apachepulsar/pulsar:4.1.2
