@@ -1,2 +1,1 @@
-ollama/ollama:0.9.6
-mintplexlabs/anythingllm:1.9.1
+ollama/ollama:0.24.0
