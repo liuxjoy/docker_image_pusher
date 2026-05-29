@@ -1,1 +1,2 @@
-redis:8.4.0
+ollama/ollama:0.9.6
+mintplexlabs/anythingllm:1.9.1
